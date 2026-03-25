@@ -1,0 +1,59 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="900" fill="#090B17"/>
+  <g opacity="0.78" stroke="#9FCCFF" stroke-width="1.2" stroke-linecap="round">
+    <path d="M0 120L180 170L260 90L390 140L520 60L650 130L760 70L920 150L1020 90L1180 180L1320 120L1490 210L1600 170"/>
+    <path d="M40 360L170 300L280 370L420 290L560 360L700 280L850 350L980 270L1120 340L1270 260L1410 330L1600 250"/>
+    <path d="M0 560L140 520L290 610L430 530L580 610L730 540L860 620L1020 540L1160 620L1290 560L1440 650L1600 590"/>
+    <path d="M80 840L200 780L360 860L500 790L640 870L780 790L940 860L1080 800L1220 870L1360 810L1520 880"/>
+  </g>
+  <g opacity="0.5" stroke="#78B6FF" stroke-width="0.9" stroke-linecap="round">
+    <path d="M150 70L210 210L350 240L410 120L570 180L620 70"/>
+    <path d="M890 110L970 220L1130 250L1200 120L1360 170L1450 60"/>
+    <path d="M200 430L320 490L450 430L520 530L660 500L710 390"/>
+    <path d="M920 430L1020 530L1150 470L1260 560L1390 500L1480 390"/>
+    <path d="M90 660L230 740L370 680L460 760L620 700L710 790"/>
+    <path d="M870 670L980 760L1130 700L1210 780L1360 720L1480 810"/>
+  </g>
+  <g opacity="0.9" fill="#D6ECFF">
+    <circle cx="180" cy="170" r="2.2"/>
+    <circle cx="390" cy="140" r="2"/>
+    <circle cx="650" cy="130" r="2.1"/>
+    <circle cx="920" cy="150" r="2"/>
+    <circle cx="1180" cy="180" r="2"/>
+    <circle cx="1490" cy="210" r="2.2"/>
+    <circle cx="170" cy="300" r="2"/>
+    <circle cx="420" cy="290" r="2.1"/>
+    <circle cx="700" cy="280" r="2.2"/>
+    <circle cx="980" cy="270" r="2"/>
+    <circle cx="1270" cy="260" r="2"/>
+    <circle cx="290" cy="610" r="2.1"/>
+    <circle cx="730" cy="540" r="2.2"/>
+    <circle cx="1020" cy="540" r="2.2"/>
+    <circle cx="1440" cy="650" r="2.1"/>
+    <circle cx="200" cy="780" r="2"/>
+    <circle cx="500" cy="790" r="2"/>
+    <circle cx="1080" cy="800" r="2.1"/>
+    <circle cx="1520" cy="880" r="2.2"/>
+  </g>
+  <g opacity="0.45" fill="#8CC8FF">
+    <circle cx="350" cy="240" r="1.5"/>
+    <circle cx="570" cy="180" r="1.4"/>
+    <circle cx="1130" cy="250" r="1.5"/>
+    <circle cx="1360" cy="170" r="1.4"/>
+    <circle cx="450" cy="430" r="1.4"/>
+    <circle cx="660" cy="500" r="1.5"/>
+    <circle cx="1260" cy="560" r="1.5"/>
+    <circle cx="1390" cy="500" r="1.4"/>
+    <circle cx="370" cy="680" r="1.4"/>
+    <circle cx="620" cy="700" r="1.5"/>
+    <circle cx="1130" cy="700" r="1.4"/>
+    <circle cx="1360" cy="720" r="1.5"/>
+  </g>
+  <defs>
+    <radialGradient id="vignette" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(800 450) rotate(90) scale(600 980)">
+      <stop stop-color="#0C1324" stop-opacity="0"/>
+      <stop offset="1" stop-color="#05070F" stop-opacity="0.75"/>
+    </radialGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#vignette)"/>
+</svg>
